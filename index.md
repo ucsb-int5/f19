@@ -2,7 +2,7 @@
 title: "INT 5: Data Science Foundations, Fall 2019"
 ---
 
-# INT 5: Data Science Foundations, Fall 2019, taught by Prof. K (Yekaterina Kharitonova)
+# INT 5: Data Science Foundations, Fall 2019, taught by Prof. K 
 
 ## Welcome to INT 5!
 
