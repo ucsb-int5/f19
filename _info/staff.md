@@ -42,10 +42,10 @@ iframe { width: 90%; height: 100px; overflow: scroll; }
 <td>
   <img src="/f19/info/mentorPhotos/404.gif"  width="300px"  alt="" style="float: left; margin: 0px 10px 20px 10px;">
   <h3> (TA) </h3>
-    Preferred Pronouns: <br/>
-    Major: <br/>
-    Previous experience as a TA: <br/>
-    <i> "" </i>
+    Preferred Pronouns: She, Her, Hers <br/>
+    Major: Computer Science<br/>
+    Previous experience as a TA: CS32, CS40<br/>
+    <i> "I am a second-year PhD student. Very excited to work with you on Data Science!" </i>
   </td>
 </tr>
 <tr>
