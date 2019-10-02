@@ -70,12 +70,12 @@ iframe { width: 90%; height: 100px; overflow: scroll; }
 </tr>
 <tr>
   <td>
-  <img src="/f19/info/mentorPhotos/404.gif"  width="300px"  alt="" style="float: left; margin: 0px 10px 20px 10px;">
+  <img src="/f19/info/mentorPhotos/ed.jpg"  width="300px"  alt="" style="float: left; margin: 0px 10px 20px 10px;">
   <h3>Eduardo Escoto (Tutor)</h3>
-    Pronouns: He, Him, His<br/>
-    Major: Mathematics and Statistics<br/>
-    Previous experience as a Tutor: "I helped teach an Introductory Web Development workshop back home :D"<br/>
-  <i>"I am very excited to be a part of this class, and I hope to be of help in any way I can! Also, I like to eat my eggs with too much hot sauce, my favorite band is The Marías, and I probably spent way more time playing Pokèmon as a kid than I should have."</i>
+    Pronouns: He, Him, His <br/>
+    Major: Mathematical Science and Statistical Science concentrated in Probability and Statistics<br/>
+    Previous experience as a tutor: INT 15, as well as teaching Web Development Workshops back home in San Diego <br/>
+  <i>"I am very excited to be a part of this class, and I hope to be of help in any way I can! I have a penchant for Machine Learning, Scientific Computing, and Web Development, and am currently a part time Data Science Intern at UCSB Health and Wellness. In regards to my personal life I like to eat my eggs with too much hot sauce, my favorite band is The Marías, and I enjoy painting and writing to de-stress and to get the creative juices flowing. I am very friendly and love to talk, so feel free to say Hi!"</i>
   </td>
 </tr>
 <tr>
