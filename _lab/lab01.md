@@ -18,7 +18,7 @@ Once you create an account, you can use it to log into those computers. If you n
 
 # Lab 01: Expressions 
 
-First lab using Jupyter Notebook.
+[First lab using Jupyter Notebook.](https://data1.lsit.ucsb.edu/hub/user-redirect/git-pull?repo=https://github.com/ucsb-int5/int5-f19-notebooks&subPath=lab01/int5-lab01.ipynb)
 
 Always use [this link](https://data1.lsit.ucsb.edu/hub/user-redirect/git-pull?repo=https://github.com/ucsb-int5/int5-f19-notebooks&subPath=lab01/int5-lab01.ipynb) in order to see the latest version of this assignment (just refreshing the page with the opened notebook will *not* work).
 
