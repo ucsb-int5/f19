@@ -1,7 +1,7 @@
 ---
 layout: lab
 num: lab01
-ready: false
+ready: true
 desc: "Getting started"
 assigned: 2019-10-02 10:00:00.00-7
 due: 2019-10-09 17:00:00.00-7
@@ -11,12 +11,16 @@ This lab must be completed **INDIVIDUALLY**.
 
 ***
 
+# CoE Account
+
+You will need the CoE account in order to log into the CoE lab computers. Use the following link to create an account: <https://accounts.engr.ucsb.edu/create>.
+Once you create an account, you can use it to log into those computers. If you need to change anything about an account, use this link: <https://accounts.engr.ucsb.edu/maintain/login>.
+
 # Lab 01: Expressions 
 
 First lab using Jupyter Notebook.
 
-Always use this link in order to see the latest version of this assignment (just refreshing the page with the opened notebook will *not* work):
-<https://data1.lsit.ucsb.edu/hub/user-redirect/git-pull?repo=https://github.com/ucsb-int5/int5-f19-notebooks&subPath=lab01/int5-lab01.ipynb>
+Always use [this link](https://data1.lsit.ucsb.edu/hub/user-redirect/git-pull?repo=https://github.com/ucsb-int5/int5-f19-notebooks&subPath=lab01/int5-lab01.ipynb) in order to see the latest version of this assignment (just refreshing the page with the opened notebook will *not* work).
 
 In today's lab, you'll learn how to:
 
