@@ -24,7 +24,7 @@ Link to the interactive UCSB map:
 <http://mapdev.geog.ucsb.edu>
 
 <style>
-iframe { width: 90%; height: 100px; overflow: scroll; }  
+iframe { width: 90%; height: 900px; overflow: scroll; }  
 </style>
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQGxxL54Ac59-VtFHZnsHO8KsCsWJ6OneI2qItYaqK-wFrSZZov3MI3kVNIso730zvnTGXQ12_dFpc1/pubhtml?gid=0&single=true"></iframe>
