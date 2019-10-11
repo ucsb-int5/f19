@@ -91,7 +91,7 @@ iframe { width: 90%; height: 900px; overflow: scroll; }
   </td>
 </tr><tr>
   <td>
-  <img src="/f19/info/mentorPhotos/404.gif"  width="300px"  alt="" style="float: left; margin: 0px 10px 20px 10px;">
+  <img src="/f19/info/mentorPhotos/INT5-F19-Sergio-Z.jpg"  width="300px"  alt="" style="float: left; margin: 0px 10px 20px 10px;">
   <h3>Sergio (Tutor)</h3>
     Pronouns: He/Him/His <br/>
     Major: Statistics and Data Science <br/>
