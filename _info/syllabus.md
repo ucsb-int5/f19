@@ -28,14 +28,14 @@ This course does not have any prerequisites beyond high-school algebra (and a de
   * Wednesday, 5PM, Phelps 3525
   * Wednesday, 6PM, Phelps 3525
   * Wednesday, 7PM, Phelps 3525
-* Exam 1: XXX, in class;
-* Exam 2: XXX, in class;
+* Exam 1: 10/29, in class;
+* Exam 2: 12/03, in class;
 * Final project due Dec 11 at 5pm.
 
 
 ## Textbook
 Our primary text is an online book called [Computational and Inferential Thinking:
-The Foundations of Data Science](www.inferentialthinking.com)
+The Foundations of Data Science](https://www.inferentialthinking.com).
 
 The computing platform (Jupyter Notebooks) for the course is hosted at https://data1.lsit.ucsb.edu/.
 
@@ -146,3 +146,5 @@ Rather than copying someone else's work, ask for help. You are not alone in this
 This page shouldn't end with a list of penalties for cheating or lateness, because penalties and grades aren't the purpose of the course. We actually just want you to learn and have a great time in the process. Please keep that goal in mind throughout the semester. Welcome to Data Science Foundations!
 
 Last major revision: Sep 26, 2019
+
+Update on 10/12 to add the exam dates from the calendar and correct the textbook link.
