@@ -91,12 +91,13 @@ iframe { width: 90%; height: 900px; overflow: scroll; }
   </td>
 </tr><tr>
   <td>
-  <img src="/f19/info/mentorPhotos/404.gif"  width="300px"  alt="" style="float: left; margin: 0px 10px 20px 10px;">
+  <img src="/f19/info/mentorPhotos/INT5-F19-Sergio-Z.jpg"  width="300px"  alt="" style="float: left; margin: 0px 10px 20px 10px;">
   <h3>Sergio (Tutor)</h3>
-    Pronouns: <br/>
-    Major: <br/>
+    Pronouns: He/Him/His <br/>
+    Major: Statistics and Data Science <br/>
     Previous experience as a tutor: <br/>
-  <i> ":)" </i>
+  <i> "Hello INT 5. My name is Sergio Zambrano and I am a fourth-year statistics and data science major. This is my first time tutoring for a class, so I am not sure how things will turn out. However, I will try my best to help you in whichever way I can. I understand that data science is a broad term that appears very intimidating. Not too long ago, I had the same uneasy feelings towards data science that some of you are facing. I hope that my knowledge and experience in data science will be able to help some of you overcome those uneasy feelings and jumpstart your journey as data scientists. I will mainly be a resource for the material in this course but feel free to send me an email at zambranoguerra@ucsb.edu for any concerns with planning courses, career goals, or anything else. Most of my experience is in python and in R with skills that range from pandas to machine learning and now Deep Learning. I have also been part of IEEE and robotics projects that mainly deals with hardware and software. I am currently intern at the YMCA corporate office where I use data science to aid me with business analytics. 
+" </i>
   </td>
 </tr>
 </table>
