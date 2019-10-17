@@ -32,6 +32,7 @@ lecture_days_of_week: TR
 cal_dates: >
   [
   {"label":"First day of Fall Quarter", "date":"2019-09-26" },
+  {"label": "DST ends", "date":"2019-11-03"},
   {"label":"No classes: Veterans' Day", "date":"2019-11-11", "holiday":true },
   {"label":"Labs are cancelled. Enjoy Thanksgiving!", "date":"2019-11-27", "holiday":true },
   {"label":"No classes: Thanksgiving Break", "date":"2019-11-28", "holiday":true },
