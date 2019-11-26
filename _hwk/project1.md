@@ -25,7 +25,7 @@ In order to decide which **numerical variables** to track "[t]ry to guess what t
 
 Once you identify the variables you want to track, begin recording the values. By the end of the first week of December, you should have about two weeks worth of data that you have collected. 
 
-By **Monday, Dec 2**, submit your answers to the following questions:
+By **Monday, Dec 2**, submit your answers to the following questions via this [Google form](https://forms.gle/QzVkQfoipbsR2s1c9):
 * What variables are you going to measure? (Note that you need at least one *pair* of variables, but you can do more if you wish.)
 * In a concise paragraph summarize the procedure for your data collection: what are you measuring? How? When / how often?
 * In a concise paragraph summarize what relationship do you expect to find and why. For example, are you hoping to find negative/positive correlation or none at all? Why?
@@ -53,5 +53,5 @@ Summarize the insights from your visualization and analysis.
 
 # Submission
 
-* Submit the variables you will be tracking by **Monday, Dec 2**.
+* Submit the variables you will be tracking by **Monday, Dec 2** via this [Google form](https://forms.gle/QzVkQfoipbsR2s1c9).
 * Submit the final notebook showing your analysis.
