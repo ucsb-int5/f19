@@ -39,6 +39,10 @@ You are allowed to use a device to help you collect the data (e.g., a (smart) wa
 
 You will need to submit your CSV / screenshots and create a table with your recorded values.
 
+## Accountability
+
+Feel free to work with someone from the class as your accountability buddy and to brainstorm ideas for this project. You don't have to track the same variables, you are just helping each other stay accountable to collect the values for this project.
+
 ## Visualization
 
 Plot the variables.
