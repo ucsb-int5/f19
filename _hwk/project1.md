@@ -3,10 +3,12 @@ num: "Project 1"
 desc: "Quantified Self"
 ready: true
 assigned: 2019-11-26 11:00:00.00-7:00
-due: 2019-12-02 17:00:00.00-7:00
+due: 2019-12-11 17:00:00.00-7:00
 ---
 
 # Quantified Self
+
+[Project 1: Project Notebook](https://data1.lsit.ucsb.edu/hub/user-redirect/git-pull?repo=https://github.com/ucsb-int5/int5-f19-notebooks&subPath=project1/project1.ipynb)
 
 As we discussed during lecture, this part of the project aims to give you a taste of data collection and self-analysis. 
 
@@ -58,4 +60,5 @@ Summarize the insights from your visualization and analysis.
 # Submission
 
 * Submit the variables you will be tracking by **Monday, Dec 2** via this [Google form](https://forms.gle/QzVkQfoipbsR2s1c9).
-* Submit the final notebook showing your analysis.
+* Submit the final notebook showing your analysis before the final project deadline.
+
