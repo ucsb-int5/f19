@@ -1,5 +1,5 @@
 ---
-num: "lect17"
+num: "lect14"
 lecture_date: 2019-11-19
 desc: "The Monty Hall Problem"
 ready: true
